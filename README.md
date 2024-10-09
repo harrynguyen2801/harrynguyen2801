@@ -8,7 +8,7 @@
       💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
       💻 Programming languages • C#, Typescript, Javascript
       🎮 Music • Games • Anime • Code • Sport
-      🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
+      🐾 vermicelli beef 🐰 • Pudding & Jelly & Tea 🐤🐥
     </pre>
   </div>
 <div align="center">
