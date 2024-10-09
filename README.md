@@ -5,7 +5,6 @@
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
 <div align="center">
   <pre>
-    
       💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
       💻 Programming languages • C#, Typescript, Javascript
       🎮 Music • Games • Anime • Code • Sport
