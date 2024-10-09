@@ -1,12 +1,33 @@
-<h1 align="center">Hi 👋, I'm Trọng Nguyễn</h1>
-<h3 align="center">A game developer with Unity</h3>
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" height ="450"  width="30%" align="right" />
+<img src= "https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&size=15&duration=2000&pause=200&center=true&multiline=true&width=500&lines=Hello+Hello;I'm+a+game+developer+with+Unity" />
+<div>
+  
+<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+<div align="center">
+  <pre>
+      💼 Experience • Game dev • 1y6m Kong Software, 6m Freelancer
+      💻 Programming languages • C#, Typescript, Javascript
+      🎮 Music • Games • Anime • Code • Sport
+      🐾 Muffin 🐰 • Pudding & Jelly & Tea 🐤🐥
+  </pre>
+    </div>
+<div align="center">
+  <h2 align="center"> ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
+  <pre>
+    📫 Gmail: trongnpit@gmail.com
+    📫 Linkedin: linkedin.com/in/trọng-nguyễn-7a052a270
+</pre>
+  </div>
 
-- 📫 How to reach me **trongnpit@gmail.com**
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" weight = "500" height="40" />
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/trọng-nguyễn-7a052a270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/trọng-nguyễn-7a052a270" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!--
+  <div style="display: flex; width: 100%;">
+    <div style="width: 75%; background-color: lightblue; padding: 20px; align="center"">
+      <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" />
+    </div>
+    <div style="width: 25%; background-color: lightgreen; padding: 20px;">
+  </div>
+-->
