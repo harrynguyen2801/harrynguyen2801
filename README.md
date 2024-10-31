@@ -19,7 +19,7 @@
 </pre>
   </div>
 
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" weight = "500" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <br><br>
 
 <!--
